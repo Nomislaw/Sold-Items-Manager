@@ -4,11 +4,12 @@ Projekt **Sold Items Manager** umożliwia zarządzanie produktami, kategoriami, 
 
 ## Konfiguracja
 1. **Sklonuj repozytorium**:
+
    git clone https://github.com/Nomislaw/Sold-Items-Manager.git
 
    Otwórz folder Sold-Items-Manager
 
-2. **Połączenie z bazą danych**:
+3. **Połączenie z bazą danych**:
 
    Łańcuch połączenia do bazy danych jest ustawiony bezpośrednio w kodzie źródłowym, w klasie **AppDbContext**.
 
