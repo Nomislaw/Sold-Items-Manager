@@ -79,7 +79,7 @@ namespace Halcube_Store_Manager
                     }
                 }
 
-                competition.Profit = profit;
+                competition.Profit = (float)Math.Round(profit,2);
             }
 
             dbContext?.SaveChanges();

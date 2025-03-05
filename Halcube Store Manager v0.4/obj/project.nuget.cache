@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiuubegqAawjxOig+vCngjp66uw6ulEjCdevNuCXHnYVX9n65b8R5aFDASEbuRnnRn5fMGJJuLV8xF+4cOfSOA==",
+  "dgSpecHash": "X+Xj+EMZ4NMm/prmlvdxaqB9ixULNvEpRqb9Nl8jFJHOydKTYKG7ZlHS0DnzX9I8Ihmn7PiuCiXzxmyR5JLzAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\szymo\\OneDrive\\Dokumenty\\Projekty\\Halcube Store Manager v0.4\\Halcube Store Manager v0.4\\Halcube Store Manager v0.4.csproj",
+  "projectFilePath": "C:\\Users\\szymo\\OneDrive\\Dokumenty\\Projekty\\Test\\Sold-Items-Manager\\Halcube Store Manager v0.4\\Halcube Store Manager v0.4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\szymo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

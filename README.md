@@ -3,8 +3,12 @@
 Projekt **Sold Items Manager** umożliwia zarządzanie produktami, kategoriami, wydarzeniami i przedmiotami w sklepie. Liczy zysk oraz bierze pod uwagę zniżki. Można również exportować i importować dane.
 
 ## Konfiguracja
+1. **Sklonuj repozytorium**
+   git clone https://github.com/Nomislaw/Sold-Items-Manager.git
 
-1. **Połączenie z bazą danych**:
+   Otwórz folder Sold-Items-Manager
+
+2. **Połączenie z bazą danych**:
 
    Łańcuch połączenia do bazy danych jest ustawiony bezpośrednio w kodzie źródłowym, w klasie **AppDbContext**.
 
