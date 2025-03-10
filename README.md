@@ -16,6 +16,7 @@ Projekt **Sold Items Manager** umożliwia zarządzanie produktami, kategoriami, 
    Otwórz plik **AppDbContext.cs** w katalogu **BLL** i znajdź poniższy fragment:
    string ConnectionParameters = "";
 
-   Aby uzyskać łańcuch połączenia z bazą danych należy w katalogu BLL kliknąć dwa razy na Database1.mdf, następnie ukaże się eksplorator serwera i należy wejść we właściwości Database1.mdf i ukażą się parametry połączenia.
+   Aby uzyskać łańcuch połączenia z bazą danych należy w katalogu BLL utworzyć bazę danych. Prawym przyciskiem myszy -> Dodaj -> Nowy element -> Baza danych oparta o usługi.
+   Kliknąć dwa razy na plik Database.mdf, następnie ukaże się eksplorator serwera i należy wejść we właściwości Database1.mdf i ukażą się parametry połączenia.
 
    
